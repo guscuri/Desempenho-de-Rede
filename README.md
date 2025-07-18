@@ -43,15 +43,15 @@ A análise demonstrou que modelos de tempo discreto (ARX) são mais adequados pa
 > **Conclusão principal:** A escolha da classe de modelo (contínuo vs. discreto) é crucial e deve ser guiada pela natureza do processo de coleta de dados.
 
 ## Tecnologias Utilizadas
-* **Linguagem:** Python 3
-* **Bibliotecas Principais:** Pandas, NumPy, Matplotlib, SciPy
+* **Linguagem:** Python 3.12
+* **Bibliotecas Principais:** Pandas, NumPy, Matplotlib, SciPy, Sk-Learn
 * **Ambiente:** Jupyter Notebook
 
 ## Como Rodar
 
 1.  Clone o repositório:
     ```sh
-    git clone [https://github.com/guscuri/MatComp.git](https://github.com/guscuri/MatComp.git)
+    git clone https://github.com/guscuri/Desempenho-de-Rede
     ```
 2.  Crie e ative um ambiente virtual.
 3.  Instale as dependências:
