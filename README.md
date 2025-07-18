@@ -60,15 +60,6 @@ A análise demonstrou que modelos de tempo discreto (ARX) são mais adequados pa
     ```
 4.  Execute o Jupyter Notebook localizado na pasta `notebooks/`. Para gerar as animações, é necessário ter o `ffmpeg` instalado no sistema.
 
-## Estrutura do Repositório
-.
-├── data/              # Contém os datasets utilizados.
-├── notebooks/         # Jupyter Notebooks com a análise completa.
-├── results/           # Gráficos e animações gerados.
-├── report/            # Relatório final do trabalho (.tex e .pdf).
-├── requirements.txt   # Lista de dependências Python.
-└── README.md          # Este arquivo.
-
 
 ## Autores
 * Gustavo Portovedo Curi
