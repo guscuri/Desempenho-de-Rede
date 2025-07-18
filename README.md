@@ -67,6 +67,11 @@ A validação final do modelo ARX, através de animações do processo de aprend
 * **Domínio**: Desempenho de Redes, Análise de Sistemas Dinâmicos, Controle Adaptativo.
 * **Linguagens e Bibliotecas**: Python, Jupyter Notebook, NumPy, Pandas, Matplotlib, SciPy.
 
-## Estrutura do Repositório
+## Autores
 
-Aqui está uma visão geral da organização dos arquivos neste repositório:
+* **Gustavo Portovedo Curi**
+* **Samyla Nascimento Silva**
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
